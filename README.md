@@ -1,4 +1,4 @@
-Team Assignment Project
+     Team Assignment Project
 
 
 This repository contains our team’s statistical computing project, implemented using Julia, Python, and R. Each folder includes source code and presentation materials prepared for different phases of the assignment.
