@@ -11,7 +11,7 @@ Team Members
 
 Omega Makena – BSCCS/2023/62934
 
-Sadiek Ahmed – BSCCS/2023/63778
+Stephen Mbote – BSCCS/2023/59467
 
 Mahirwe Tresor – BSCCS/2023/63054
 
